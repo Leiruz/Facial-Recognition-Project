@@ -1,8 +1,6 @@
 # Facial-Recognition-Project
 Using LBHF engine and Tensorflow to create facial recognition
 
-# Facial Recognition Project
-
 How to use
 ---
 ## Step 1
